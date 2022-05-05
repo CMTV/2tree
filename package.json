@@ -1,6 +1,20 @@
 {
     "name": "2tree",
-    "version": "1.0.1",
+    "version": "1.0.2",
+    "description": "Easily transform any arrays into trees.",
+    "author": {
+        "name": "CMTV",
+        "url": "https://github.com/CMTV"
+    },
+    "license": "MIT",
+    "keywords": [
+        "tree",
+        "build",
+        "recursive",
+        "nested",
+        "ts",
+        "typescript"
+    ],
     "main": "dist/index.js",
     "scripts": {
         "build": "npm run clear && npx tsc",
