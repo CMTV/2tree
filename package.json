@@ -1,6 +1,7 @@
 {
     "name": "2tree",
-    "version": "1.0.0",
+    "version": "1.0.1",
+    "main": "dist/index.js",
     "scripts": {
         "build": "npm run clear && npx tsc",
         "clear": "npx rimraf dist"
