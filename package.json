@@ -1,11 +1,12 @@
 {
     "name": "2tree",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Easily transform any arrays into trees.",
     "author": {
         "name": "CMTV",
         "url": "https://github.com/CMTV"
     },
+    "repository": "git://github.com/CMTV/2tree.git",
     "license": "MIT",
     "keywords": [
         "tree",
